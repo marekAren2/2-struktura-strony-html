@@ -2,3 +2,21 @@ html {
   height: 100%;
   width: 100%;
 }
+
+section {
+  background-color: aqua;
+}
+/* section#o-mnie {
+  background-color: aqua;
+}
+
+section#kontakt {
+  background-color: aqua;
+} */
+
+header {
+  background-color: yellowgreen;
+}
+footer {
+  background-color: grey;
+}
